@@ -13,7 +13,7 @@
 <script
 	src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <title>ユーザー一覧削除確認</title>
-<link rel="stylesheet" type="text/css" href="./css/style2.css">
+<link rel="stylesheet" type="text/css" href="./css/style.css">
 
 <script type="text/javascript">
 	function submitAction(url) {

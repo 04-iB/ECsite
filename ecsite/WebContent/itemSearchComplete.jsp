@@ -53,6 +53,12 @@
 			</s:elseif>
 			<div>
 				<p>
+					商品検索を続ける場合は<a href='<s:url action="ItemSearchAction" />'>こちら</a>
+				</p>
+				<p>
+					商品一覧に戻る場合は<a href='<s:url action="ItemSelectAction" />'>こちら</a>
+				</p>
+				<p>
 					Homeに戻る場合は<a href='<s:url action="GoHomeAction" />'>こちら</a>
 				</p>
 			</div>

@@ -32,15 +32,15 @@
 				<br>
 				お問い合わせの種類:<br>
 				<select name="qtype">
-					<option value="company">会社について</option>
-					<option value="product">製品について</option>
-					<option value="support">アフターサポートについて</option>
+					<option value="会社について">会社について</option>
+					<option value="製品について">製品について</option>
+					<option value="アフターサポートについて">アフターサポートについて</option>
 				</select>
 				<br>
 				お問い合わせ内容:
 				<s:textarea name="body" />
 				<br>
-				<s:submit value="登録" />
+				<s:submit value="送信" />
 			</s:form>
 			<div>
 				<p>

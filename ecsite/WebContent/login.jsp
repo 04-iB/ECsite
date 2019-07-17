@@ -27,9 +27,8 @@
 			<s:form action="LoginAction">
 				<s:textfield name="loginUserId" />
 				<s:password name="loginPassword" />
-				<s:submit value="ログイン" />
+					<s:submit value="ログイン" />
 			</s:form>
-			<br />
 			<div>
 				<p>
 					新規ユーザー登録は <a href='<s:url action="UserCreateAction"/>'>こちら</a>
